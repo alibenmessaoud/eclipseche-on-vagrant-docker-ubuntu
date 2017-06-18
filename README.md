@@ -18,7 +18,7 @@ Now you are connected to the VM using SSH. You can see the user changed on the C
 
 ## Run Eclipse CHE (latest version)
 
-Always from the root of this project, start the Eclipse CHE server
+Always from Eclipse CHE home folder and under /bin, start the server
 
 ```shellscript
 $ ./home/vagrant/eclipse-che-latest/eclipse*/bin/che.sh start 
