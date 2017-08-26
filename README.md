@@ -33,3 +33,5 @@ To inspect the workspace instances, execute this command line.
 ```shellscript
 $ docker ps
 ```
+
+26/08/2017
